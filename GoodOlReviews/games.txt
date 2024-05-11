@@ -1,0 +1,6 @@
+Id Naam Genre Prijs Kortingsprijs
+1 Mario classic 14.99 6.99
+2 Zelda adventure 19.99 4.99
+3 Pacman sci-fi 19.99 9.99
+4 Shantosh-island horror 69.99 9.99
+5 Speed Race 175.99 0.99
